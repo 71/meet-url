@@ -1,0 +1,8 @@
+[package]
+name = "meet-url"
+version = "0.1.0"
+authors = ["Grégoire Geis <opensource@gregoirege.is>"]
+edition = "2018"
+
+[dependencies]
+rocket = { git = "https://github.com/SergioBenitez/Rocket" }
